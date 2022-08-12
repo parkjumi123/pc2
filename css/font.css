@@ -1,0 +1,36 @@
+@font-face {
+    font-family: 'pretendard';
+    src: url(../font/Pretendard-ExtraLight.woff) format('woff');
+    font-weight: 300;
+}
+@font-face {
+    font-family: 'pretendard';
+    src: url(../font/Pretendard-Regular.woff) format('woff');
+    font-weight: 400;
+}
+@font-face {
+    font-family: 'pretendard';
+    src: url(../font/Pretendard-Medium.woff) format('woff');
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: 'tt';
+    src: url(../font/TTNorms-Light.woff) format('woff');
+    font-weight: 300;
+}
+@font-face {
+    font-family: 'tt';
+    src: url(../font/TTNorms-Regular.woff) format('woff');
+    font-weight: 400;
+}
+@font-face {
+    font-family: 'tt';
+    src: url(../font/TTNorms-Medium.woff) format('woff');
+    font-weight: 500;
+}
+@font-face {
+    font-family: 'tt';
+    src: url(../font/TTNorms-Bold.otf) format('woff');
+    font-weight: 700;
+}
